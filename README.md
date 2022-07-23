@@ -15,6 +15,13 @@ PRODUCT_PACKAGES += \
     GCamGOPrebuilt-V2
 ```
 
+## GCamGO V3 by Shamim
+```
+PRODUCT_PACKAGES += \
+    GCamGOPrebuilt-V3
+```
+
 | Source |
 | ------ |
 | [dev-greatness](https://www.celsoazevedo.com/files/android/google-camera/dev-greatness/) |
+| [dev-shamim](https://www.celsoazevedo.com/files/android/google-camera/dev-shamim/) |
